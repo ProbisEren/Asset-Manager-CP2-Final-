@@ -29,7 +29,7 @@ Users can log in, view their financial assets (cryptocurrencies, stocks, currenc
 ### 2. Clone the Project
 
 ```bash
-git clone link
+git clone [link](https://github.com/ProbisEren/Asset-Manager-CP2-Final-)
 ```
 
 ### 3. Database Setup
