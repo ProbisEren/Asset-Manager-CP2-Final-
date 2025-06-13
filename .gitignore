@@ -1,0 +1,12 @@
+
+target/
+
+
+db_user_pswrd.txt
+
+*.class
+
+
+*.log
+*.tmp
+*.bak
